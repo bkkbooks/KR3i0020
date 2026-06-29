@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR3i0020/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3i0020/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 茶錄
+  date: '2015-08-24 23:17:52.263105'
+  source:
+    repository: kanripo
+    path: KR3i0020
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3i0020_000-WYG.yaml, hash: 'sha256:709db00f96f3bc216b9f96ed20df798c9655e99c7be3b34a929d6d27f90009d5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3i0020_000-WYG.markers.yaml, hash: 'sha256:8f836f0b4bd1f34dc6157ef78ef063ef00d8d88ab9c7b6825b8cc8bb0c81ce19'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3i0020_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 1044
+  label: 茶録
+  type: section
+  level: 1
+hash: sha256:8b90d1777ad35fb6d9b2bf1261eecbec140ebc9fcc7e8b7193f306ac16abad9e
