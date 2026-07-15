@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3i0020/v1
 canonical_location: https://kanripo.org/bkk/KR3i0020/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 茶錄
   date: '2015-08-24 23:17:52.263105'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3i0020_000.yaml, hash: 'sha256:e558823267224993bedb3c124a44e2207e4ce787d0e386332f41c11d1c0e5710'}
+  - {seq: 0, filename: KR3i0020_000.yaml, hash: 'sha256:add1f910cf522c50e2f422953f08f89e0a63a726b8fc80a9c7a5632dc0db91f9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0020_000.markers.yaml, hash: 'sha256:0e0f0adfabac5ce390b759947c0ee08be9743d729d51963eeb10a23bee4854d0'}
+  - {seq: 0, role: markers, filename: assets/KR3i0020_000.markers.yaml, hash: 'sha256:0e49f5da061c4abe4b708e379cdc6cf72f5bd7f3befadddab1325f7fba04814b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -34,4 +34,7 @@ table_of_contents:
   label: 茶録
   type: section
   level: 1
-hash: sha256:29cb577894931e7072614b21cac5d46aa927453d7c980af2bf12efaeea3fb347
+hash: sha256:d8737ae89a588e13f433073d706aa09947b808e2e9d0344d427b66a15e6f9004
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
