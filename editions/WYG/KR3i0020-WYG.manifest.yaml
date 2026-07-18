@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3i0020_000-WYG.yaml, hash: 'sha256:709db00f96f3bc216b9f96ed20df798c9655e99c7be3b34a929d6d27f90009d5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3i0020_000-WYG.markers.yaml, hash: 'sha256:8f836f0b4bd1f34dc6157ef78ef063ef00d8d88ab9c7b6825b8cc8bb0c81ce19'}
+  - {seq: 0, role: markers, filename: assets/KR3i0020_000-WYG.markers.yaml, hash: 'sha256:f15f34cb0964ac25d05f3e548b05282cabb5db3d4f3e64df8dd5d7303560dcaf'}
 table_of_contents:
 - ref:
     seq: 0
@@ -31,4 +31,4 @@ table_of_contents:
   label: 茶録
   type: section
   level: 1
-hash: sha256:8b90d1777ad35fb6d9b2bf1261eecbec140ebc9fcc7e8b7193f306ac16abad9e
+hash: sha256:7309f59a9e4e1e102c54e0c99a09b7b64f53c1f12f11e5f6ffcbf97f6c1fce29
